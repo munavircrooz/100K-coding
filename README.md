@@ -1,4 +1,4 @@
-**100 K CODING CHALLENGE*** this is a sample ***C PROGRAM***
+>***100 K CODING CHALLENGE*** this is a sample ***C PROGRAM***
 
   <div align="center">
   
